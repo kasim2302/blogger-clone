@@ -9,13 +9,15 @@
 
 @keyframes mohd {
     0%{
-        background-color:#555A54 ;
+        background-color:#bc382e ;
     }
     50%{
-        background-color:#407C87 ;
+        background-color:
+        #388d80 ;
     }
     100%{
-        background-color: #9CCD62;
+        background-color: 
+        #4583aa;
     }  
 }
 section{
