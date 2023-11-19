@@ -110,7 +110,9 @@ padding-top: 30px;
 
 }
 .img{
- align-items: end;
+ 
+ position: relative;
+ bottom: 10px;
  width: 200px;
 
 }
