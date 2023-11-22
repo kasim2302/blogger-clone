@@ -24,7 +24,7 @@ section{
 }
 .section1{
     overflow: hidden;
-    animation: mohd 5s linear infinite;
+    animation: mohd 3s linear infinite;
 }
 
 .header{
@@ -109,8 +109,7 @@ line-height: 30px;
 padding-top: 30px;
 
 }
-.img{
- 
+.img {   
  position: relative;
  bottom: -59px;
  left: 305px;
