@@ -90,6 +90,8 @@ h1{
 .section2{
 
     background-color: #ff8000;
+    width: 100;
+    height: 90vh;
 
 }
 .he{
@@ -113,4 +115,42 @@ padding-top: 30px;
  position: relative;
  bottom: -59px;
  left: 305px;
+}
+.section3{
+    background-color: #BC382E;
+    overflow: hidden;
+    width: 100;
+    height: 90vh;
+}
+.sec3{
+
+    font-size: 40px;
+    color: white;
+    margin-left: 130px;
+    padding-top: 200px;
+    line-height: 100px; 
+}
+.secs3{
+    font-size: 18px;
+    color: white;
+    margin-left: 130px;  
+}
+.section4{
+    background-color: #388d80;
+    width: 100;
+    height: 90vh;
+    overflow: hidden;
+}
+
+.sec4{
+    font-size: 40px;
+    color: white;
+    padding-top: 200px;
+    margin-left: 550px;
+    line-height: 100px;
+}
+.secs4{
+  font-size: 18px;
+  color: white;
+  margin-left: 550px;
 }
